@@ -1,0 +1,5 @@
+# .gitignore
+.env
+board_*.png
+__pycache__/
+*.pyc
